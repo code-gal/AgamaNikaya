@@ -1,0 +1,5 @@
+# 排除 .obsidian 目录
+.obsidian/
+
+# 排除 base 文件
+*.base
